@@ -1,7 +1,7 @@
 obrazec = input('Počítám čtverec nebo kruh? ')
 square = obrazec == 'čtverec'
 circle = obrazec == 'kruh'
-if square == True:  # komentář
+if square == True:  # komentář1
     strana = float(input('Zadej stranu čtverce: '))
     print()
     print("Obvod čtverce se stranou", strana, "cm je", 4 * strana, "cm.")
