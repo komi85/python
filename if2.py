@@ -13,7 +13,7 @@ elif circle == True:
     print("Obvod kruhu s poloměrem", polomer, "cm je", 2 * pi * polomer, "cm.")
     print("Obsah kruhu s poloměrem", polomer, "cm je", pi * polomer ** 2, "cm2.")
 else:
-    print('Špatná volba.')
+    print('Špatná volba')
 print()
 print()
 print('Nashledanou...')
